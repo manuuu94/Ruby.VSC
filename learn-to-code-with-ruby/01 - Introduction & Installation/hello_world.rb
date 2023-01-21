@@ -1,10 +1,13 @@
 #this is a comment
 puts "Hello World"
-puts 4
+puts 4+2
+puts #will print an empty line
+puts "after empty line"
+#puts method will print/execute/run/invoke strings, int, etc. 
+puts 1,2,3 #separate by comma will print individually too
 
-#code runner
-#IRB Interactive Ruby : irb : in the terminal : REPL : used to write ruby in the terminal : nil represents that it gives nothing back, just prints. 
-#exit or quit to finish using IRB
+
+
 
 
 
