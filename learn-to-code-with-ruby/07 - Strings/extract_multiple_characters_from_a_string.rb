@@ -5,6 +5,8 @@ puts a[2,a.length]
 
 
 
+puts a[3..8] #is going to extract from the first..second
+
 
 
 
