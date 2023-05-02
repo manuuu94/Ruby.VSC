@@ -6,7 +6,7 @@ else
 end
 
 
-if number == 5
+if number == 6
     puts "the number is #{number}"
 end
 
@@ -22,3 +22,19 @@ a = "manu"
 if a.length == 4
     puts "the word has #{a.length} letters"
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

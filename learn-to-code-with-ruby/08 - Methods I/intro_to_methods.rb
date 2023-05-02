@@ -8,3 +8,15 @@ def say_something(text)
     puts text
 end
 say_something("hellooooooo to you!")
+
+
+#coding challenge
+def even_or_odd_operations(num)
+    if num.odd?
+        puts num-3
+    else
+        puts num+2
+    end
+end
+
+even_or_odd_operations(2)
