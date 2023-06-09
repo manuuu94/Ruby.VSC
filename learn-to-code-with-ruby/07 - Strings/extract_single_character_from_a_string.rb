@@ -10,3 +10,16 @@ puts a[3..6]
 
 puts a.length
 puts a.size
+
+
+
+
+def same_first_and_last_letter(string)
+    if string[0] == string [-1]
+        return true
+    else
+        return false
+    end
+end 
+
+puts same_first_and_last_letter("manuem")
